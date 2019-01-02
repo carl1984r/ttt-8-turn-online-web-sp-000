@@ -18,7 +18,7 @@ def turn(board)
      else
        puts "Invalid Input"
        turn(board)
-       
+
      end
      end
 
